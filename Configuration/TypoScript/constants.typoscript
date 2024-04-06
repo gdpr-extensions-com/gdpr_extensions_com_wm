@@ -1,0 +1,6 @@
+plugin.tx_gdprextensionscomwm_websitemanager {
+    settings {
+        # cat=plugin.tx_gdprextensionscomwm_websitemanager/; type=string; label=Dashboard Base Url
+        dashboardBaseUrl = https://dashboard.gdpr-extensions.com/
+    }
+}

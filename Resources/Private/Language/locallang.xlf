@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:gdpr_extensions_com_wm/Resources/Private/Language/locallang.xlf" date="2023-09-21T18:34:19Z" product-name="gdpr_extensions_com_wm">
+		<header />
+		<body>
+			<trans-unit id="gosignAPI" resname="gosignAPI">
+				<source>Gosign API-Connect</source>
+			</trans-unit>
+			<trans-unit id="tx_gdprextensionscomwm_domain_model_connections" resname="tx_gdprextensionscomwm_domain_model_connections">
+				<source>Connections</source>
+			</trans-unit>
+			<trans-unit id="tx_gdprextensionscomwm_domain_model_connections.apitoken" resname="tx_gdprextensionscomwm_domain_model_connections.apitoken">
+				<source>API Token</source>
+			</trans-unit>
+			<trans-unit id="sync.apiconnects.title" resname="sync.apiconnects.title">
+				<source>Receive dynamic data</source>
+			</trans-unit>
+			<trans-unit id="sync.update_own_status.title" resname="sync.apiconnects.title">
+				<source>Update Website Status</source>
+			</trans-unit>
+			<trans-unit id="sync.update_own_status.description" resname="sync.apiconnects.description">
+				<source>Update website connections status on Gosign dashboard</source>
+			</trans-unit>
+			<trans-unit id="tx_gdprextensionscomwm_domain_model_api" resname="tx_gdprextensionscomwm_domain_model_api">
+				<source>Api</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

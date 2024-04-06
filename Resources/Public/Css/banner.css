@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+div.tx-go-apiconnect {
+  position: relative;
+}
+
+div.tx-go-apiconnect.space-before-extra-small {
+  padding-top: 2%;
+}
+div.tx-go-apiconnect.space-before-small {
+  padding-top: 4%;
+}
+div.tx-go-apiconnect.space-before-medium {
+  padding-top: 6%;
+}
+div.tx-go-apiconnect.space-before-large {
+  padding-top: 8%;
+}
+div.tx-go-apiconnect.space-before-extra-large {
+  padding-top: 10%;
+}
+div.tx-go-apiconnect.space-after-extra-small {
+  padding-bottom: 2%;
+}
+div.tx-go-apiconnect.space-after-small {
+  padding-bottom: 4%;
+}
+div.tx-go-apiconnect.space-after-medium {
+  padding-bottom: 6%;
+}
+div.tx-go-apiconnect.space-after-large {
+  padding-bottom: 8%;
+}
+div.tx-go-apiconnect.space-after-extra-large {
+  padding-bottom: 10%;
+}
+
+
+.spacer {
+  height: 50px;
+  margin: 0 50px 0 50px;
+  /* margin: 20px 0 -50px 0; use this if you want #container to have a 'bottom padding', in this case of 20px */
+  background: transparent;
+}
