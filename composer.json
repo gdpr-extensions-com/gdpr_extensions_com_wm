@@ -2,7 +2,7 @@
     "name": "gdpr-extensions-com/gdpr_extensions_com_wm",
     "type": "typo3-cms-extension",
     "description": "Manage your websites and add various content elements that are GDPR compliant to your website, GDPR Website Manager is your first step to ensure your user’s privacy.",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "authors": [],
     "license": "GPL-2.0-or-later",
     "require": {
